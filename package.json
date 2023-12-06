@@ -1,0 +1,25 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maazkhan77/node_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maazkhan77/node_practice/issues"
+  },
+  "homepage": "https://github.com/maazkhan77/node_practice#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  }
+}
