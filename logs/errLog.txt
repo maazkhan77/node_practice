@@ -1,0 +1,2 @@
+20231207	13:19:35	8b6b9fc7-7dba-4ac4-896f-28f552273101	Error: Not allowed by CORS
+20231207	13:19:38	6a7eb5d4-2678-4abb-8d9e-486114f9c72a	Error: Not allowed by CORS
